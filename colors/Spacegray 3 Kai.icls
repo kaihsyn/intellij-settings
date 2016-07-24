@@ -7,7 +7,7 @@
     <option name="ADDED_LINES_COLOR" value="bcd42a" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="CARET_COLOR" value="bbbbbb" />
-    <option name="CARET_ROW_COLOR" value="323232" />
+    <option name="CARET_ROW_COLOR" value="212b30" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
     <option name="DELETED_LINES_COLOR" value="b7b1a9" />
     <option name="FILESTATUS_ADDED" value="629755" />
@@ -26,7 +26,7 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="263238" />
-    <option name="INDENT_GUIDE" value="373737" />
+    <option name="INDENT_GUIDE" value="3c3f41" />
     <option name="LINE_NUMBERS_COLOR" value="91939c" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="16a085" />
@@ -36,8 +36,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="787878" />
-    <option name="SELECTION_BACKGROUND" value="3d4550" />
-    <option name="SELECTION_FOREGROUND" value="aeaeae" />
+    <option name="SELECTION_BACKGROUND" value="304047" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="555555" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="b7b1a9" />
@@ -189,8 +189,8 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="589df6" />
-        <option name="EFFECT_COLOR" value="589df6" />
+        <option name="FOREGROUND" value="16a085" />
+        <option name="EFFECT_COLOR" value="bcd42a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -417,8 +417,8 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3498db" />
-        <option name="EFFECT_COLOR" value="287bde" />
+        <option name="FOREGROUND" value="16a085" />
+        <option name="EFFECT_COLOR" value="bcd42a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -522,8 +522,8 @@
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3498db" />
-        <option name="EFFECT_COLOR" value="287bde" />
+        <option name="FOREGROUND" value="16a085" />
+        <option name="EFFECT_COLOR" value="bcd42a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -718,9 +718,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffef28" />
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="BACKGROUND" value="304047" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -884,7 +882,7 @@
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ae8abe" />
+        <option name="FOREGROUND" value="16a085" />
       </value>
     </option>
     <option name="TEXT">
